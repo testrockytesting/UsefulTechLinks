@@ -15,3 +15,8 @@ Time Magazine - http://time.com/tag/creativity/
 # Productivity
 
 Workflowy - https://workflowy.com/
+
+# Security Assessments
+
+Assessing Electron Apps - 
+https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html
