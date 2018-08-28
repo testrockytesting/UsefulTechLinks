@@ -7,6 +7,7 @@ Home Automation - https://www.home-assistant.io/
 # Recon
 
 SSH Auditing - https://github.com/ncsa/ssh-auditor
+
 Threat Feeds - https://threatfeeds.io/
 
 # Creativity 
@@ -21,3 +22,5 @@ Workflowy - https://workflowy.com/
 
 Assessing Electron Apps - 
 https://blog.doyensec.com/2018/07/19/instrumenting-electron-app.html
+
+AWS - https://blyx.com/2018/07/18/my-arsenal-of-aws-security-tools/
